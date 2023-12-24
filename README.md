@@ -5,7 +5,7 @@ HUNT63: Philippine Phone Number Reverse Lookup is a simple OSINT tool that searc
 
 # Usage
 For Linux:
-* git clone https://github.com/semiiixyz/hunt63.git
+* git clone https://github.com/xfr0g/hunt63.git
 * cd hunt63
 * pip3 install bs4 termcolor
 * python3 hunt63.py
@@ -13,7 +13,7 @@ For Linux:
 For Termux:
 * pkg update && upgrade
 * pkg install python3 git
-* git clone https://github.com/semiiixyz/hunt63.git
+* git clone https://github.com/xfr0g/hunt63.git
 * cd hunt63
 * pip3 install bs4 termcolor
 * python3 hunt63.py
